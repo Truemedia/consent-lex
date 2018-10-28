@@ -1,0 +1,35 @@
+{
+  "name": "consent-lex",
+  "version": "1.0.0",
+  "description": "A lexicon for giving or declining to give consent (yes and no)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/consent-lex.git"
+  },
+  "keywords": [
+    "lexicon",
+    "lemme-lex",
+    "yes",
+    "no",
+    "consent",
+    "nlp",
+    "ai",
+    "training",
+    "data"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/consent-lex/issues"
+  },
+  "homepage": "https://github.com/Truemedia/consent-lex#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "lemme-lex": "^0.3.0",
+    "yes-no-words": "^1.4.0"
+  }
+}
