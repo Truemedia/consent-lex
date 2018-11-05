@@ -1,6 +1,6 @@
 {
   "name": "consent-lex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lexicon for giving or declining to give consent (yes and no)",
   "main": "src/index.js",
   "scripts": {
