@@ -29,7 +29,7 @@
   "homepage": "https://github.com/Truemedia/consent-lex#readme",
   "devDependencies": {},
   "dependencies": {
-    "lemme-lex": "^0.3.0",
+    "lemme-lex": "^0.3.1",
     "yes-no-words": "^1.4.0"
   }
 }
