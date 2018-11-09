@@ -1,3 +1,4 @@
-const lex = require('./src/index');
+const ConsentLex = require('./src/index');
 
-console.log(lex);
+console.log('british', new ConsentLex());
+console.log('japanese', new ConsentLex('ja_JP'));

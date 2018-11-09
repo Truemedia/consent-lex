@@ -21,5 +21,7 @@ Yarn
 
 ### As dependency
 ```js
-const Lex = require('consent-lex');
+const ConsentLex = require('consent-lex');
+let lex = new ConsentLex();
+console.log(lex); // Will output class instance using lemme-lex
 ```
